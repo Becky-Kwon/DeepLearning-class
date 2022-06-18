@@ -1,6 +1,6 @@
 # Final Team Preject
 
-## Team 6 (Deep FLower0
+## Team 6 (Deep FLower)
 권예진 성민지 신세희 임양강 지서영
 
 ## Competiton
